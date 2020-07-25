@@ -1,9 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://linkedin.com/in/iampavangandhi">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <br />
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=gaurav.bpunjabi)
