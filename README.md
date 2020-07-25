@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**Gaurav-Punjabi/Gaurav-Punjabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/iampavangandhi">
+  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=gaurav.bpunjabi)
+
+A Hardworking, Dedicated, Passionate Application Developer and UX Designer.
+
+### Show some ❤️ by starring some of the repositories!
+
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=jatin-8898&show_icons=true&theme=dracula)
+
+⭐️ From [Gaurav-Punjabi](https://github.com/Gaurav-Punjabi)
