@@ -12,6 +12,6 @@ A Hardworking, Dedicated, Passionate Application Developer and UX Designer.
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Punjabi&show_icons=true&theme=dracula)
+![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Punjabi&show_icons=true&theme=dracula) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-Punjabi)](https://github.com/Gaurav-Punjabi/github-readme-stats)
 
 ⭐️ From [Gaurav-Punjabi](https://github.com/Gaurav-Punjabi)
