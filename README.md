@@ -2,4 +2,4 @@
 
 ### Glad to see you here! 🤩 
 
-A Hardworking, Dedicated, Passionate Application Developer and UX Designer.
+A Hardworking, Dedicated, Passionate Software Developer with a keen interest in compilers and interpreters.
